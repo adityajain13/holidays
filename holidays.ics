@@ -1,0 +1,2963 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Aditya//Ontario Holidays//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Ontario Holidays
+X-WR-TIMEZONE:America/Toronto
+
+
+BEGIN:VEVENT
+UID:on-newyearsday@aditya-ontario-holidays
+DTSTART;VALUE=DATE:19970101
+DTEND;VALUE=DATE:19970102
+RRULE:FREQ=YEARLY
+SUMMARY:🎉 New Year's Day
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-valentinesday@aditya-ontario-holidays
+DTSTART;VALUE=DATE:19970214
+DTEND;VALUE=DATE:19970215
+RRULE:FREQ=YEARLY
+SUMMARY:💘 Valentine's Day
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-stpatricksday@aditya-ontario-holidays
+DTSTART;VALUE=DATE:19970317
+DTEND;VALUE=DATE:19970318
+RRULE:FREQ=YEARLY
+SUMMARY:☘️ St. Patrick's Day
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-aprilfoolsday@aditya-ontario-holidays
+DTSTART;VALUE=DATE:19970401
+DTEND;VALUE=DATE:19970402
+RRULE:FREQ=YEARLY
+SUMMARY:🤡 April Fools' Day
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-canadaday@aditya-ontario-holidays
+DTSTART;VALUE=DATE:19970701
+DTEND;VALUE=DATE:19970702
+RRULE:FREQ=YEARLY
+SUMMARY:🇨🇦 Canada Day
+DESCRIPTION:Ontario statutory holiday
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-halloween@aditya-ontario-holidays
+DTSTART;VALUE=DATE:19971031
+DTEND;VALUE=DATE:19971101
+RRULE:FREQ=YEARLY
+SUMMARY:🎃 Halloween
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-remembranceday@aditya-ontario-holidays
+DTSTART;VALUE=DATE:19971111
+DTEND;VALUE=DATE:19971112
+RRULE:FREQ=YEARLY
+SUMMARY:🌺 Remembrance Day
+DESCRIPTION:Federal statutory holiday only; not an Ontario ESA holiday
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-christmaseve@aditya-ontario-holidays
+DTSTART;VALUE=DATE:19971224
+DTEND;VALUE=DATE:19971225
+RRULE:FREQ=YEARLY
+SUMMARY:🎄 Christmas Eve
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-christmas@aditya-ontario-holidays
+DTSTART;VALUE=DATE:19971225
+DTEND;VALUE=DATE:19971226
+RRULE:FREQ=YEARLY
+SUMMARY:🎅 Christmas Day
+DESCRIPTION:Ontario statutory holiday
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-boxingday@aditya-ontario-holidays
+DTSTART;VALUE=DATE:19971226
+DTEND;VALUE=DATE:19971227
+RRULE:FREQ=YEARLY
+SUMMARY:🛍️ Boxing Day
+DESCRIPTION:Ontario statutory holiday
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-newyearseve@aditya-ontario-holidays
+DTSTART;VALUE=DATE:19971231
+DTEND;VALUE=DATE:19980101
+RRULE:FREQ=YEARLY
+SUMMARY:🥂 New Year's Eve
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-reconciliationday@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20210930
+DTEND;VALUE=DATE:20211001
+RRULE:FREQ=YEARLY
+SUMMARY:🧡 National Day for Truth and Reconciliation
+DESCRIPTION:Federal statutory holiday only; not an Ontario ESA holiday. First observed 2021
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-familyday@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20080218
+DTEND;VALUE=DATE:20080219
+RRULE:FREQ=YEARLY;BYMONTH=2;BYDAY=3MO
+SUMMARY:👨‍👩‍👧‍👦 Family Day
+DESCRIPTION:Ontario statutory holiday (3rd Monday of February). First observed 2008
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-victoriaday@aditya-ontario-holidays
+DTSTART;VALUE=DATE:19970519
+DTEND;VALUE=DATE:19970520
+RRULE:FREQ=YEARLY;BYMONTH=5;BYDAY=MO;BYMONTHDAY=18,19,20,21,22,23,24
+SUMMARY:👑 Victoria Day
+DESCRIPTION:Ontario statutory holiday (Monday on or before May 24)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-civicholiday@aditya-ontario-holidays
+DTSTART;VALUE=DATE:19970804
+DTEND;VALUE=DATE:19970805
+RRULE:FREQ=YEARLY;BYMONTH=8;BYDAY=1MO
+SUMMARY:🏖️ Civic Holiday
+DESCRIPTION:Optional holiday, not legally required (1st Monday of August)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-labourday@aditya-ontario-holidays
+DTSTART;VALUE=DATE:19970901
+DTEND;VALUE=DATE:19970902
+RRULE:FREQ=YEARLY;BYMONTH=9;BYDAY=1MO
+SUMMARY:🛠️ Labour Day
+DESCRIPTION:Ontario statutory holiday (1st Monday of September)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-thanksgiving@aditya-ontario-holidays
+DTSTART;VALUE=DATE:19971013
+DTEND;VALUE=DATE:19971014
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=2MO
+SUMMARY:🦃 Thanksgiving
+DESCRIPTION:Ontario statutory holiday (2nd Monday of October)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-mothersday@aditya-ontario-holidays
+DTSTART;VALUE=DATE:19970511
+DTEND;VALUE=DATE:19970512
+RRULE:FREQ=YEARLY;BYMONTH=5;BYDAY=2SU
+SUMMARY:💐 Mother's Day
+DESCRIPTION:2nd Sunday of May
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-fathersday@aditya-ontario-holidays
+DTSTART;VALUE=DATE:19970615
+DTEND;VALUE=DATE:19970616
+RRULE:FREQ=YEARLY;BYMONTH=6;BYDAY=3SU
+SUMMARY:👔 Father's Day
+DESCRIPTION:3rd Sunday of June
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-dststart-old@aditya-ontario-holidays
+DTSTART;VALUE=DATE:19970406
+DTEND;VALUE=DATE:19970407
+RRULE:FREQ=YEARLY;BYMONTH=4;BYDAY=1SU;UNTIL=20061231
+SUMMARY:⏩ Daylight Saving Time Starts
+DESCRIPTION:Clocks spring forward 1 hour at 2am (pre-2007 rule: 1st Sunday of April)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-dststart-new@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20070311
+DTEND;VALUE=DATE:20070312
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+SUMMARY:⏩ Daylight Saving Time Starts
+DESCRIPTION:Clocks spring forward 1 hour at 2am (2nd Sunday of March, rule since 2007)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-dsend-old@aditya-ontario-holidays
+DTSTART;VALUE=DATE:19971026
+DTEND;VALUE=DATE:19971027
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU;UNTIL=20061231
+SUMMARY:⏪ Daylight Saving Time Ends
+DESCRIPTION:Clocks fall back 1 hour at 2am (pre-2007 rule: last Sunday of October)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-dsend-new@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20071104
+DTEND;VALUE=DATE:20071105
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+SUMMARY:⏪ Daylight Saving Time Ends
+DESCRIPTION:Clocks fall back 1 hour at 2am (1st Sunday of November, rule since 2007)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-goodfriday-1997@aditya-ontario-holidays
+DTSTART;VALUE=DATE:19970328
+DTEND;VALUE=DATE:19970329
+SUMMARY:✝️ Good Friday
+DESCRIPTION:Ontario statutory holiday
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-eastersunday-1997@aditya-ontario-holidays
+DTSTART;VALUE=DATE:19970330
+DTEND;VALUE=DATE:19970331
+SUMMARY:🐣 Easter Sunday
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-eastermonday-1997@aditya-ontario-holidays
+DTSTART;VALUE=DATE:19970331
+DTEND;VALUE=DATE:19970401
+SUMMARY:🐰 Easter Monday
+DESCRIPTION:Not an Ontario ESA statutory holiday, but commonly observed
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-goodfriday-1998@aditya-ontario-holidays
+DTSTART;VALUE=DATE:19980410
+DTEND;VALUE=DATE:19980411
+SUMMARY:✝️ Good Friday
+DESCRIPTION:Ontario statutory holiday
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-eastersunday-1998@aditya-ontario-holidays
+DTSTART;VALUE=DATE:19980412
+DTEND;VALUE=DATE:19980413
+SUMMARY:🐣 Easter Sunday
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-eastermonday-1998@aditya-ontario-holidays
+DTSTART;VALUE=DATE:19980413
+DTEND;VALUE=DATE:19980414
+SUMMARY:🐰 Easter Monday
+DESCRIPTION:Not an Ontario ESA statutory holiday, but commonly observed
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-goodfriday-1999@aditya-ontario-holidays
+DTSTART;VALUE=DATE:19990402
+DTEND;VALUE=DATE:19990403
+SUMMARY:✝️ Good Friday
+DESCRIPTION:Ontario statutory holiday
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-eastersunday-1999@aditya-ontario-holidays
+DTSTART;VALUE=DATE:19990404
+DTEND;VALUE=DATE:19990405
+SUMMARY:🐣 Easter Sunday
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-eastermonday-1999@aditya-ontario-holidays
+DTSTART;VALUE=DATE:19990405
+DTEND;VALUE=DATE:19990406
+SUMMARY:🐰 Easter Monday
+DESCRIPTION:Not an Ontario ESA statutory holiday, but commonly observed
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-goodfriday-2000@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20000421
+DTEND;VALUE=DATE:20000422
+SUMMARY:✝️ Good Friday
+DESCRIPTION:Ontario statutory holiday
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-eastersunday-2000@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20000423
+DTEND;VALUE=DATE:20000424
+SUMMARY:🐣 Easter Sunday
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-eastermonday-2000@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20000424
+DTEND;VALUE=DATE:20000425
+SUMMARY:🐰 Easter Monday
+DESCRIPTION:Not an Ontario ESA statutory holiday, but commonly observed
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-goodfriday-2001@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20010413
+DTEND;VALUE=DATE:20010414
+SUMMARY:✝️ Good Friday
+DESCRIPTION:Ontario statutory holiday
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-eastersunday-2001@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20010415
+DTEND;VALUE=DATE:20010416
+SUMMARY:🐣 Easter Sunday
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-eastermonday-2001@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20010416
+DTEND;VALUE=DATE:20010417
+SUMMARY:🐰 Easter Monday
+DESCRIPTION:Not an Ontario ESA statutory holiday, but commonly observed
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-goodfriday-2002@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20020329
+DTEND;VALUE=DATE:20020330
+SUMMARY:✝️ Good Friday
+DESCRIPTION:Ontario statutory holiday
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-eastersunday-2002@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20020331
+DTEND;VALUE=DATE:20020401
+SUMMARY:🐣 Easter Sunday
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-eastermonday-2002@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20020401
+DTEND;VALUE=DATE:20020402
+SUMMARY:🐰 Easter Monday
+DESCRIPTION:Not an Ontario ESA statutory holiday, but commonly observed
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-goodfriday-2003@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20030418
+DTEND;VALUE=DATE:20030419
+SUMMARY:✝️ Good Friday
+DESCRIPTION:Ontario statutory holiday
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-eastersunday-2003@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20030420
+DTEND;VALUE=DATE:20030421
+SUMMARY:🐣 Easter Sunday
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-eastermonday-2003@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20030421
+DTEND;VALUE=DATE:20030422
+SUMMARY:🐰 Easter Monday
+DESCRIPTION:Not an Ontario ESA statutory holiday, but commonly observed
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-goodfriday-2004@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20040409
+DTEND;VALUE=DATE:20040410
+SUMMARY:✝️ Good Friday
+DESCRIPTION:Ontario statutory holiday
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-eastersunday-2004@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20040411
+DTEND;VALUE=DATE:20040412
+SUMMARY:🐣 Easter Sunday
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-eastermonday-2004@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20040412
+DTEND;VALUE=DATE:20040413
+SUMMARY:🐰 Easter Monday
+DESCRIPTION:Not an Ontario ESA statutory holiday, but commonly observed
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-goodfriday-2005@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20050325
+DTEND;VALUE=DATE:20050326
+SUMMARY:✝️ Good Friday
+DESCRIPTION:Ontario statutory holiday
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-eastersunday-2005@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20050327
+DTEND;VALUE=DATE:20050328
+SUMMARY:🐣 Easter Sunday
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-eastermonday-2005@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20050328
+DTEND;VALUE=DATE:20050329
+SUMMARY:🐰 Easter Monday
+DESCRIPTION:Not an Ontario ESA statutory holiday, but commonly observed
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-goodfriday-2006@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20060414
+DTEND;VALUE=DATE:20060415
+SUMMARY:✝️ Good Friday
+DESCRIPTION:Ontario statutory holiday
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-eastersunday-2006@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20060416
+DTEND;VALUE=DATE:20060417
+SUMMARY:🐣 Easter Sunday
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-eastermonday-2006@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20060417
+DTEND;VALUE=DATE:20060418
+SUMMARY:🐰 Easter Monday
+DESCRIPTION:Not an Ontario ESA statutory holiday, but commonly observed
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-goodfriday-2007@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20070406
+DTEND;VALUE=DATE:20070407
+SUMMARY:✝️ Good Friday
+DESCRIPTION:Ontario statutory holiday
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-eastersunday-2007@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20070408
+DTEND;VALUE=DATE:20070409
+SUMMARY:🐣 Easter Sunday
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-eastermonday-2007@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20070409
+DTEND;VALUE=DATE:20070410
+SUMMARY:🐰 Easter Monday
+DESCRIPTION:Not an Ontario ESA statutory holiday, but commonly observed
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-goodfriday-2008@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20080321
+DTEND;VALUE=DATE:20080322
+SUMMARY:✝️ Good Friday
+DESCRIPTION:Ontario statutory holiday
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-eastersunday-2008@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20080323
+DTEND;VALUE=DATE:20080324
+SUMMARY:🐣 Easter Sunday
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-eastermonday-2008@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20080324
+DTEND;VALUE=DATE:20080325
+SUMMARY:🐰 Easter Monday
+DESCRIPTION:Not an Ontario ESA statutory holiday, but commonly observed
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-goodfriday-2009@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20090410
+DTEND;VALUE=DATE:20090411
+SUMMARY:✝️ Good Friday
+DESCRIPTION:Ontario statutory holiday
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-eastersunday-2009@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20090412
+DTEND;VALUE=DATE:20090413
+SUMMARY:🐣 Easter Sunday
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-eastermonday-2009@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20090413
+DTEND;VALUE=DATE:20090414
+SUMMARY:🐰 Easter Monday
+DESCRIPTION:Not an Ontario ESA statutory holiday, but commonly observed
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-goodfriday-2010@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20100402
+DTEND;VALUE=DATE:20100403
+SUMMARY:✝️ Good Friday
+DESCRIPTION:Ontario statutory holiday
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-eastersunday-2010@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20100404
+DTEND;VALUE=DATE:20100405
+SUMMARY:🐣 Easter Sunday
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-eastermonday-2010@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20100405
+DTEND;VALUE=DATE:20100406
+SUMMARY:🐰 Easter Monday
+DESCRIPTION:Not an Ontario ESA statutory holiday, but commonly observed
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-goodfriday-2011@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20110422
+DTEND;VALUE=DATE:20110423
+SUMMARY:✝️ Good Friday
+DESCRIPTION:Ontario statutory holiday
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-eastersunday-2011@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20110424
+DTEND;VALUE=DATE:20110425
+SUMMARY:🐣 Easter Sunday
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-eastermonday-2011@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20110425
+DTEND;VALUE=DATE:20110426
+SUMMARY:🐰 Easter Monday
+DESCRIPTION:Not an Ontario ESA statutory holiday, but commonly observed
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-goodfriday-2012@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20120406
+DTEND;VALUE=DATE:20120407
+SUMMARY:✝️ Good Friday
+DESCRIPTION:Ontario statutory holiday
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-eastersunday-2012@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20120408
+DTEND;VALUE=DATE:20120409
+SUMMARY:🐣 Easter Sunday
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-eastermonday-2012@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20120409
+DTEND;VALUE=DATE:20120410
+SUMMARY:🐰 Easter Monday
+DESCRIPTION:Not an Ontario ESA statutory holiday, but commonly observed
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-goodfriday-2013@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20130329
+DTEND;VALUE=DATE:20130330
+SUMMARY:✝️ Good Friday
+DESCRIPTION:Ontario statutory holiday
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-eastersunday-2013@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20130331
+DTEND;VALUE=DATE:20130401
+SUMMARY:🐣 Easter Sunday
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-eastermonday-2013@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20130401
+DTEND;VALUE=DATE:20130402
+SUMMARY:🐰 Easter Monday
+DESCRIPTION:Not an Ontario ESA statutory holiday, but commonly observed
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-goodfriday-2014@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20140418
+DTEND;VALUE=DATE:20140419
+SUMMARY:✝️ Good Friday
+DESCRIPTION:Ontario statutory holiday
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-eastersunday-2014@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20140420
+DTEND;VALUE=DATE:20140421
+SUMMARY:🐣 Easter Sunday
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-eastermonday-2014@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20140421
+DTEND;VALUE=DATE:20140422
+SUMMARY:🐰 Easter Monday
+DESCRIPTION:Not an Ontario ESA statutory holiday, but commonly observed
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-goodfriday-2015@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20150403
+DTEND;VALUE=DATE:20150404
+SUMMARY:✝️ Good Friday
+DESCRIPTION:Ontario statutory holiday
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-eastersunday-2015@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20150405
+DTEND;VALUE=DATE:20150406
+SUMMARY:🐣 Easter Sunday
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-eastermonday-2015@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20150406
+DTEND;VALUE=DATE:20150407
+SUMMARY:🐰 Easter Monday
+DESCRIPTION:Not an Ontario ESA statutory holiday, but commonly observed
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-goodfriday-2016@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20160325
+DTEND;VALUE=DATE:20160326
+SUMMARY:✝️ Good Friday
+DESCRIPTION:Ontario statutory holiday
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-eastersunday-2016@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20160327
+DTEND;VALUE=DATE:20160328
+SUMMARY:🐣 Easter Sunday
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-eastermonday-2016@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20160328
+DTEND;VALUE=DATE:20160329
+SUMMARY:🐰 Easter Monday
+DESCRIPTION:Not an Ontario ESA statutory holiday, but commonly observed
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-goodfriday-2017@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20170414
+DTEND;VALUE=DATE:20170415
+SUMMARY:✝️ Good Friday
+DESCRIPTION:Ontario statutory holiday
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-eastersunday-2017@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20170416
+DTEND;VALUE=DATE:20170417
+SUMMARY:🐣 Easter Sunday
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-eastermonday-2017@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20170417
+DTEND;VALUE=DATE:20170418
+SUMMARY:🐰 Easter Monday
+DESCRIPTION:Not an Ontario ESA statutory holiday, but commonly observed
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-goodfriday-2018@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20180330
+DTEND;VALUE=DATE:20180331
+SUMMARY:✝️ Good Friday
+DESCRIPTION:Ontario statutory holiday
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-eastersunday-2018@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20180401
+DTEND;VALUE=DATE:20180402
+SUMMARY:🐣 Easter Sunday
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-eastermonday-2018@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20180402
+DTEND;VALUE=DATE:20180403
+SUMMARY:🐰 Easter Monday
+DESCRIPTION:Not an Ontario ESA statutory holiday, but commonly observed
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-goodfriday-2019@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20190419
+DTEND;VALUE=DATE:20190420
+SUMMARY:✝️ Good Friday
+DESCRIPTION:Ontario statutory holiday
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-eastersunday-2019@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20190421
+DTEND;VALUE=DATE:20190422
+SUMMARY:🐣 Easter Sunday
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-eastermonday-2019@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20190422
+DTEND;VALUE=DATE:20190423
+SUMMARY:🐰 Easter Monday
+DESCRIPTION:Not an Ontario ESA statutory holiday, but commonly observed
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-goodfriday-2020@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20200410
+DTEND;VALUE=DATE:20200411
+SUMMARY:✝️ Good Friday
+DESCRIPTION:Ontario statutory holiday
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-eastersunday-2020@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20200412
+DTEND;VALUE=DATE:20200413
+SUMMARY:🐣 Easter Sunday
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-eastermonday-2020@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20200413
+DTEND;VALUE=DATE:20200414
+SUMMARY:🐰 Easter Monday
+DESCRIPTION:Not an Ontario ESA statutory holiday, but commonly observed
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-goodfriday-2021@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20210402
+DTEND;VALUE=DATE:20210403
+SUMMARY:✝️ Good Friday
+DESCRIPTION:Ontario statutory holiday
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-eastersunday-2021@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20210404
+DTEND;VALUE=DATE:20210405
+SUMMARY:🐣 Easter Sunday
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-eastermonday-2021@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20210405
+DTEND;VALUE=DATE:20210406
+SUMMARY:🐰 Easter Monday
+DESCRIPTION:Not an Ontario ESA statutory holiday, but commonly observed
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-goodfriday-2022@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20220415
+DTEND;VALUE=DATE:20220416
+SUMMARY:✝️ Good Friday
+DESCRIPTION:Ontario statutory holiday
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-eastersunday-2022@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20220417
+DTEND;VALUE=DATE:20220418
+SUMMARY:🐣 Easter Sunday
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-eastermonday-2022@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20220418
+DTEND;VALUE=DATE:20220419
+SUMMARY:🐰 Easter Monday
+DESCRIPTION:Not an Ontario ESA statutory holiday, but commonly observed
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-goodfriday-2023@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20230407
+DTEND;VALUE=DATE:20230408
+SUMMARY:✝️ Good Friday
+DESCRIPTION:Ontario statutory holiday
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-eastersunday-2023@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20230409
+DTEND;VALUE=DATE:20230410
+SUMMARY:🐣 Easter Sunday
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-eastermonday-2023@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20230410
+DTEND;VALUE=DATE:20230411
+SUMMARY:🐰 Easter Monday
+DESCRIPTION:Not an Ontario ESA statutory holiday, but commonly observed
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-goodfriday-2024@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20240329
+DTEND;VALUE=DATE:20240330
+SUMMARY:✝️ Good Friday
+DESCRIPTION:Ontario statutory holiday
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-eastersunday-2024@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20240331
+DTEND;VALUE=DATE:20240401
+SUMMARY:🐣 Easter Sunday
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-eastermonday-2024@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20240401
+DTEND;VALUE=DATE:20240402
+SUMMARY:🐰 Easter Monday
+DESCRIPTION:Not an Ontario ESA statutory holiday, but commonly observed
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-goodfriday-2025@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20250418
+DTEND;VALUE=DATE:20250419
+SUMMARY:✝️ Good Friday
+DESCRIPTION:Ontario statutory holiday
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-eastersunday-2025@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20250420
+DTEND;VALUE=DATE:20250421
+SUMMARY:🐣 Easter Sunday
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-eastermonday-2025@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20250421
+DTEND;VALUE=DATE:20250422
+SUMMARY:🐰 Easter Monday
+DESCRIPTION:Not an Ontario ESA statutory holiday, but commonly observed
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-goodfriday-2026@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20260403
+DTEND;VALUE=DATE:20260404
+SUMMARY:✝️ Good Friday
+DESCRIPTION:Ontario statutory holiday
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-eastersunday-2026@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20260405
+DTEND;VALUE=DATE:20260406
+SUMMARY:🐣 Easter Sunday
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-eastermonday-2026@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20260406
+DTEND;VALUE=DATE:20260407
+SUMMARY:🐰 Easter Monday
+DESCRIPTION:Not an Ontario ESA statutory holiday, but commonly observed
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-goodfriday-2027@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20270326
+DTEND;VALUE=DATE:20270327
+SUMMARY:✝️ Good Friday
+DESCRIPTION:Ontario statutory holiday
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-eastersunday-2027@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20270328
+DTEND;VALUE=DATE:20270329
+SUMMARY:🐣 Easter Sunday
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-eastermonday-2027@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20270329
+DTEND;VALUE=DATE:20270330
+SUMMARY:🐰 Easter Monday
+DESCRIPTION:Not an Ontario ESA statutory holiday, but commonly observed
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-goodfriday-2028@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20280414
+DTEND;VALUE=DATE:20280415
+SUMMARY:✝️ Good Friday
+DESCRIPTION:Ontario statutory holiday
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-eastersunday-2028@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20280416
+DTEND;VALUE=DATE:20280417
+SUMMARY:🐣 Easter Sunday
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-eastermonday-2028@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20280417
+DTEND;VALUE=DATE:20280418
+SUMMARY:🐰 Easter Monday
+DESCRIPTION:Not an Ontario ESA statutory holiday, but commonly observed
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-goodfriday-2029@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20290330
+DTEND;VALUE=DATE:20290331
+SUMMARY:✝️ Good Friday
+DESCRIPTION:Ontario statutory holiday
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-eastersunday-2029@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20290401
+DTEND;VALUE=DATE:20290402
+SUMMARY:🐣 Easter Sunday
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-eastermonday-2029@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20290402
+DTEND;VALUE=DATE:20290403
+SUMMARY:🐰 Easter Monday
+DESCRIPTION:Not an Ontario ESA statutory holiday, but commonly observed
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-goodfriday-2030@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20300419
+DTEND;VALUE=DATE:20300420
+SUMMARY:✝️ Good Friday
+DESCRIPTION:Ontario statutory holiday
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-eastersunday-2030@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20300421
+DTEND;VALUE=DATE:20300422
+SUMMARY:🐣 Easter Sunday
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-eastermonday-2030@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20300422
+DTEND;VALUE=DATE:20300423
+SUMMARY:🐰 Easter Monday
+DESCRIPTION:Not an Ontario ESA statutory holiday, but commonly observed
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-marchequinox-1997@aditya-ontario-holidays
+DTSTART;VALUE=DATE:19970320
+DTEND;VALUE=DATE:19970321
+SUMMARY:🌱 March Equinox
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-junesolstice-1997@aditya-ontario-holidays
+DTSTART;VALUE=DATE:19970621
+DTEND;VALUE=DATE:19970622
+SUMMARY:☀️ June Solstice
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-septemberequinox-1997@aditya-ontario-holidays
+DTSTART;VALUE=DATE:19970922
+DTEND;VALUE=DATE:19970923
+SUMMARY:🍂 September Equinox
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-decembersolstice-1997@aditya-ontario-holidays
+DTSTART;VALUE=DATE:19971221
+DTEND;VALUE=DATE:19971222
+SUMMARY:❄️ December Solstice
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-marchequinox-1998@aditya-ontario-holidays
+DTSTART;VALUE=DATE:19980320
+DTEND;VALUE=DATE:19980321
+SUMMARY:🌱 March Equinox
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-junesolstice-1998@aditya-ontario-holidays
+DTSTART;VALUE=DATE:19980621
+DTEND;VALUE=DATE:19980622
+SUMMARY:☀️ June Solstice
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-septemberequinox-1998@aditya-ontario-holidays
+DTSTART;VALUE=DATE:19980923
+DTEND;VALUE=DATE:19980924
+SUMMARY:🍂 September Equinox
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-decembersolstice-1998@aditya-ontario-holidays
+DTSTART;VALUE=DATE:19981221
+DTEND;VALUE=DATE:19981222
+SUMMARY:❄️ December Solstice
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-marchequinox-1999@aditya-ontario-holidays
+DTSTART;VALUE=DATE:19990320
+DTEND;VALUE=DATE:19990321
+SUMMARY:🌱 March Equinox
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-junesolstice-1999@aditya-ontario-holidays
+DTSTART;VALUE=DATE:19990621
+DTEND;VALUE=DATE:19990622
+SUMMARY:☀️ June Solstice
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-septemberequinox-1999@aditya-ontario-holidays
+DTSTART;VALUE=DATE:19990923
+DTEND;VALUE=DATE:19990924
+SUMMARY:🍂 September Equinox
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-decembersolstice-1999@aditya-ontario-holidays
+DTSTART;VALUE=DATE:19991222
+DTEND;VALUE=DATE:19991223
+SUMMARY:❄️ December Solstice
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-marchequinox-2000@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20000320
+DTEND;VALUE=DATE:20000321
+SUMMARY:🌱 March Equinox
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-junesolstice-2000@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20000620
+DTEND;VALUE=DATE:20000621
+SUMMARY:☀️ June Solstice
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-septemberequinox-2000@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20000922
+DTEND;VALUE=DATE:20000923
+SUMMARY:🍂 September Equinox
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-decembersolstice-2000@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20001221
+DTEND;VALUE=DATE:20001222
+SUMMARY:❄️ December Solstice
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-marchequinox-2001@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20010320
+DTEND;VALUE=DATE:20010321
+SUMMARY:🌱 March Equinox
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-junesolstice-2001@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20010621
+DTEND;VALUE=DATE:20010622
+SUMMARY:☀️ June Solstice
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-septemberequinox-2001@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20010922
+DTEND;VALUE=DATE:20010923
+SUMMARY:🍂 September Equinox
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-decembersolstice-2001@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20011221
+DTEND;VALUE=DATE:20011222
+SUMMARY:❄️ December Solstice
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-marchequinox-2002@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20020320
+DTEND;VALUE=DATE:20020321
+SUMMARY:🌱 March Equinox
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-junesolstice-2002@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20020621
+DTEND;VALUE=DATE:20020622
+SUMMARY:☀️ June Solstice
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-septemberequinox-2002@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20020923
+DTEND;VALUE=DATE:20020924
+SUMMARY:🍂 September Equinox
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-decembersolstice-2002@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20021221
+DTEND;VALUE=DATE:20021222
+SUMMARY:❄️ December Solstice
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-marchequinox-2003@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20030320
+DTEND;VALUE=DATE:20030321
+SUMMARY:🌱 March Equinox
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-junesolstice-2003@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20030621
+DTEND;VALUE=DATE:20030622
+SUMMARY:☀️ June Solstice
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-septemberequinox-2003@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20030923
+DTEND;VALUE=DATE:20030924
+SUMMARY:🍂 September Equinox
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-decembersolstice-2003@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20031222
+DTEND;VALUE=DATE:20031223
+SUMMARY:❄️ December Solstice
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-marchequinox-2004@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20040320
+DTEND;VALUE=DATE:20040321
+SUMMARY:🌱 March Equinox
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-junesolstice-2004@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20040620
+DTEND;VALUE=DATE:20040621
+SUMMARY:☀️ June Solstice
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-septemberequinox-2004@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20040922
+DTEND;VALUE=DATE:20040923
+SUMMARY:🍂 September Equinox
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-decembersolstice-2004@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20041221
+DTEND;VALUE=DATE:20041222
+SUMMARY:❄️ December Solstice
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-marchequinox-2005@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20050320
+DTEND;VALUE=DATE:20050321
+SUMMARY:🌱 March Equinox
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-junesolstice-2005@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20050621
+DTEND;VALUE=DATE:20050622
+SUMMARY:☀️ June Solstice
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-septemberequinox-2005@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20050922
+DTEND;VALUE=DATE:20050923
+SUMMARY:🍂 September Equinox
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-decembersolstice-2005@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20051221
+DTEND;VALUE=DATE:20051222
+SUMMARY:❄️ December Solstice
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-marchequinox-2006@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20060320
+DTEND;VALUE=DATE:20060321
+SUMMARY:🌱 March Equinox
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-junesolstice-2006@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20060621
+DTEND;VALUE=DATE:20060622
+SUMMARY:☀️ June Solstice
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-septemberequinox-2006@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20060923
+DTEND;VALUE=DATE:20060924
+SUMMARY:🍂 September Equinox
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-decembersolstice-2006@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20061221
+DTEND;VALUE=DATE:20061222
+SUMMARY:❄️ December Solstice
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-marchequinox-2007@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20070320
+DTEND;VALUE=DATE:20070321
+SUMMARY:🌱 March Equinox
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-junesolstice-2007@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20070621
+DTEND;VALUE=DATE:20070622
+SUMMARY:☀️ June Solstice
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-septemberequinox-2007@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20070923
+DTEND;VALUE=DATE:20070924
+SUMMARY:🍂 September Equinox
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-decembersolstice-2007@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20071222
+DTEND;VALUE=DATE:20071223
+SUMMARY:❄️ December Solstice
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-marchequinox-2008@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20080320
+DTEND;VALUE=DATE:20080321
+SUMMARY:🌱 March Equinox
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-junesolstice-2008@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20080620
+DTEND;VALUE=DATE:20080621
+SUMMARY:☀️ June Solstice
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-septemberequinox-2008@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20080922
+DTEND;VALUE=DATE:20080923
+SUMMARY:🍂 September Equinox
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-decembersolstice-2008@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20081221
+DTEND;VALUE=DATE:20081222
+SUMMARY:❄️ December Solstice
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-marchequinox-2009@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20090320
+DTEND;VALUE=DATE:20090321
+SUMMARY:🌱 March Equinox
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-junesolstice-2009@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20090621
+DTEND;VALUE=DATE:20090622
+SUMMARY:☀️ June Solstice
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-septemberequinox-2009@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20090922
+DTEND;VALUE=DATE:20090923
+SUMMARY:🍂 September Equinox
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-decembersolstice-2009@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20091221
+DTEND;VALUE=DATE:20091222
+SUMMARY:❄️ December Solstice
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-marchequinox-2010@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20100320
+DTEND;VALUE=DATE:20100321
+SUMMARY:🌱 March Equinox
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-junesolstice-2010@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20100621
+DTEND;VALUE=DATE:20100622
+SUMMARY:☀️ June Solstice
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-septemberequinox-2010@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20100922
+DTEND;VALUE=DATE:20100923
+SUMMARY:🍂 September Equinox
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-decembersolstice-2010@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20101221
+DTEND;VALUE=DATE:20101222
+SUMMARY:❄️ December Solstice
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-marchequinox-2011@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20110320
+DTEND;VALUE=DATE:20110321
+SUMMARY:🌱 March Equinox
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-junesolstice-2011@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20110621
+DTEND;VALUE=DATE:20110622
+SUMMARY:☀️ June Solstice
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-septemberequinox-2011@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20110923
+DTEND;VALUE=DATE:20110924
+SUMMARY:🍂 September Equinox
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-decembersolstice-2011@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20111222
+DTEND;VALUE=DATE:20111223
+SUMMARY:❄️ December Solstice
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-marchequinox-2012@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20120320
+DTEND;VALUE=DATE:20120321
+SUMMARY:🌱 March Equinox
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-junesolstice-2012@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20120620
+DTEND;VALUE=DATE:20120621
+SUMMARY:☀️ June Solstice
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-septemberequinox-2012@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20120922
+DTEND;VALUE=DATE:20120923
+SUMMARY:🍂 September Equinox
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-decembersolstice-2012@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20121221
+DTEND;VALUE=DATE:20121222
+SUMMARY:❄️ December Solstice
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-marchequinox-2013@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20130320
+DTEND;VALUE=DATE:20130321
+SUMMARY:🌱 March Equinox
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-junesolstice-2013@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20130621
+DTEND;VALUE=DATE:20130622
+SUMMARY:☀️ June Solstice
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-septemberequinox-2013@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20130922
+DTEND;VALUE=DATE:20130923
+SUMMARY:🍂 September Equinox
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-decembersolstice-2013@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20131221
+DTEND;VALUE=DATE:20131222
+SUMMARY:❄️ December Solstice
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-marchequinox-2014@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20140320
+DTEND;VALUE=DATE:20140321
+SUMMARY:🌱 March Equinox
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-junesolstice-2014@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20140621
+DTEND;VALUE=DATE:20140622
+SUMMARY:☀️ June Solstice
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-septemberequinox-2014@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20140922
+DTEND;VALUE=DATE:20140923
+SUMMARY:🍂 September Equinox
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-decembersolstice-2014@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20141221
+DTEND;VALUE=DATE:20141222
+SUMMARY:❄️ December Solstice
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-marchequinox-2015@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20150320
+DTEND;VALUE=DATE:20150321
+SUMMARY:🌱 March Equinox
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-junesolstice-2015@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20150621
+DTEND;VALUE=DATE:20150622
+SUMMARY:☀️ June Solstice
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-septemberequinox-2015@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20150923
+DTEND;VALUE=DATE:20150924
+SUMMARY:🍂 September Equinox
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-decembersolstice-2015@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20151221
+DTEND;VALUE=DATE:20151222
+SUMMARY:❄️ December Solstice
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-marchequinox-2016@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20160320
+DTEND;VALUE=DATE:20160321
+SUMMARY:🌱 March Equinox
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-junesolstice-2016@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20160620
+DTEND;VALUE=DATE:20160621
+SUMMARY:☀️ June Solstice
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-septemberequinox-2016@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20160922
+DTEND;VALUE=DATE:20160923
+SUMMARY:🍂 September Equinox
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-decembersolstice-2016@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20161221
+DTEND;VALUE=DATE:20161222
+SUMMARY:❄️ December Solstice
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-marchequinox-2017@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20170320
+DTEND;VALUE=DATE:20170321
+SUMMARY:🌱 March Equinox
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-junesolstice-2017@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20170621
+DTEND;VALUE=DATE:20170622
+SUMMARY:☀️ June Solstice
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-septemberequinox-2017@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20170922
+DTEND;VALUE=DATE:20170923
+SUMMARY:🍂 September Equinox
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-decembersolstice-2017@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20171221
+DTEND;VALUE=DATE:20171222
+SUMMARY:❄️ December Solstice
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-marchequinox-2018@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20180320
+DTEND;VALUE=DATE:20180321
+SUMMARY:🌱 March Equinox
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-junesolstice-2018@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20180621
+DTEND;VALUE=DATE:20180622
+SUMMARY:☀️ June Solstice
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-septemberequinox-2018@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20180922
+DTEND;VALUE=DATE:20180923
+SUMMARY:🍂 September Equinox
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-decembersolstice-2018@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20181221
+DTEND;VALUE=DATE:20181222
+SUMMARY:❄️ December Solstice
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-marchequinox-2019@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20190320
+DTEND;VALUE=DATE:20190321
+SUMMARY:🌱 March Equinox
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-junesolstice-2019@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20190621
+DTEND;VALUE=DATE:20190622
+SUMMARY:☀️ June Solstice
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-septemberequinox-2019@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20190923
+DTEND;VALUE=DATE:20190924
+SUMMARY:🍂 September Equinox
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-decembersolstice-2019@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20191221
+DTEND;VALUE=DATE:20191222
+SUMMARY:❄️ December Solstice
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-marchequinox-2020@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20200319
+DTEND;VALUE=DATE:20200320
+SUMMARY:🌱 March Equinox
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-junesolstice-2020@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20200620
+DTEND;VALUE=DATE:20200621
+SUMMARY:☀️ June Solstice
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-septemberequinox-2020@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20200922
+DTEND;VALUE=DATE:20200923
+SUMMARY:🍂 September Equinox
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-decembersolstice-2020@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20201221
+DTEND;VALUE=DATE:20201222
+SUMMARY:❄️ December Solstice
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-marchequinox-2021@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20210320
+DTEND;VALUE=DATE:20210321
+SUMMARY:🌱 March Equinox
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-junesolstice-2021@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20210620
+DTEND;VALUE=DATE:20210621
+SUMMARY:☀️ June Solstice
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-septemberequinox-2021@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20210922
+DTEND;VALUE=DATE:20210923
+SUMMARY:🍂 September Equinox
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-decembersolstice-2021@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20211221
+DTEND;VALUE=DATE:20211222
+SUMMARY:❄️ December Solstice
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-marchequinox-2022@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20220320
+DTEND;VALUE=DATE:20220321
+SUMMARY:🌱 March Equinox
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-junesolstice-2022@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20220621
+DTEND;VALUE=DATE:20220622
+SUMMARY:☀️ June Solstice
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-septemberequinox-2022@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20220922
+DTEND;VALUE=DATE:20220923
+SUMMARY:🍂 September Equinox
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-decembersolstice-2022@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20221221
+DTEND;VALUE=DATE:20221222
+SUMMARY:❄️ December Solstice
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-marchequinox-2023@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20230320
+DTEND;VALUE=DATE:20230321
+SUMMARY:🌱 March Equinox
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-junesolstice-2023@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20230621
+DTEND;VALUE=DATE:20230622
+SUMMARY:☀️ June Solstice
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-septemberequinox-2023@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20230923
+DTEND;VALUE=DATE:20230924
+SUMMARY:🍂 September Equinox
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-decembersolstice-2023@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20231221
+DTEND;VALUE=DATE:20231222
+SUMMARY:❄️ December Solstice
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-marchequinox-2024@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20240319
+DTEND;VALUE=DATE:20240320
+SUMMARY:🌱 March Equinox
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-junesolstice-2024@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20240620
+DTEND;VALUE=DATE:20240621
+SUMMARY:☀️ June Solstice
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-septemberequinox-2024@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20240922
+DTEND;VALUE=DATE:20240923
+SUMMARY:🍂 September Equinox
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-decembersolstice-2024@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20241221
+DTEND;VALUE=DATE:20241222
+SUMMARY:❄️ December Solstice
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-marchequinox-2025@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20250320
+DTEND;VALUE=DATE:20250321
+SUMMARY:🌱 March Equinox
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-junesolstice-2025@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20250620
+DTEND;VALUE=DATE:20250621
+SUMMARY:☀️ June Solstice
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-septemberequinox-2025@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20250922
+DTEND;VALUE=DATE:20250923
+SUMMARY:🍂 September Equinox
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-decembersolstice-2025@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20251221
+DTEND;VALUE=DATE:20251222
+SUMMARY:❄️ December Solstice
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-marchequinox-2026@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20260320
+DTEND;VALUE=DATE:20260321
+SUMMARY:🌱 March Equinox
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-junesolstice-2026@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20260621
+DTEND;VALUE=DATE:20260622
+SUMMARY:☀️ June Solstice
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-septemberequinox-2026@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20260922
+DTEND;VALUE=DATE:20260923
+SUMMARY:🍂 September Equinox
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-decembersolstice-2026@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20261221
+DTEND;VALUE=DATE:20261222
+SUMMARY:❄️ December Solstice
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-marchequinox-2027@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+SUMMARY:🌱 March Equinox
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-junesolstice-2027@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20270621
+DTEND;VALUE=DATE:20270622
+SUMMARY:☀️ June Solstice
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-septemberequinox-2027@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20270923
+DTEND;VALUE=DATE:20270924
+SUMMARY:🍂 September Equinox
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-decembersolstice-2027@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20271221
+DTEND;VALUE=DATE:20271222
+SUMMARY:❄️ December Solstice
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-marchequinox-2028@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20280319
+DTEND;VALUE=DATE:20280320
+SUMMARY:🌱 March Equinox
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-junesolstice-2028@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20280620
+DTEND;VALUE=DATE:20280621
+SUMMARY:☀️ June Solstice
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-septemberequinox-2028@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20280922
+DTEND;VALUE=DATE:20280923
+SUMMARY:🍂 September Equinox
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-decembersolstice-2028@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20281221
+DTEND;VALUE=DATE:20281222
+SUMMARY:❄️ December Solstice
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-marchequinox-2029@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20290320
+DTEND;VALUE=DATE:20290321
+SUMMARY:🌱 March Equinox
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-junesolstice-2029@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20290620
+DTEND;VALUE=DATE:20290621
+SUMMARY:☀️ June Solstice
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-septemberequinox-2029@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20290922
+DTEND;VALUE=DATE:20290923
+SUMMARY:🍂 September Equinox
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-decembersolstice-2029@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20291221
+DTEND;VALUE=DATE:20291222
+SUMMARY:❄️ December Solstice
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-marchequinox-2030@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20300320
+DTEND;VALUE=DATE:20300321
+SUMMARY:🌱 March Equinox
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-junesolstice-2030@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20300621
+DTEND;VALUE=DATE:20300622
+SUMMARY:☀️ June Solstice
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-septemberequinox-2030@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20300922
+DTEND;VALUE=DATE:20300923
+SUMMARY:🍂 September Equinox
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-decembersolstice-2030@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20301221
+DTEND;VALUE=DATE:20301222
+SUMMARY:❄️ December Solstice
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-rakshabandhan-1997@aditya-ontario-holidays
+DTSTART;VALUE=DATE:19970818
+DTEND;VALUE=DATE:19970819
+SUMMARY:🧵 Raksha Bandhan (Rakhi)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-rakshabandhan-1998@aditya-ontario-holidays
+DTSTART;VALUE=DATE:19980807
+DTEND;VALUE=DATE:19980808
+SUMMARY:🧵 Raksha Bandhan (Rakhi)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-rakshabandhan-1999@aditya-ontario-holidays
+DTSTART;VALUE=DATE:19990826
+DTEND;VALUE=DATE:19990827
+SUMMARY:🧵 Raksha Bandhan (Rakhi)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-rakshabandhan-2000@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20000814
+DTEND;VALUE=DATE:20000815
+SUMMARY:🧵 Raksha Bandhan (Rakhi)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-rakshabandhan-2001@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20010803
+DTEND;VALUE=DATE:20010804
+SUMMARY:🧵 Raksha Bandhan (Rakhi)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-rakshabandhan-2002@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20020822
+DTEND;VALUE=DATE:20020823
+SUMMARY:🧵 Raksha Bandhan (Rakhi)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-rakshabandhan-2003@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20030811
+DTEND;VALUE=DATE:20030812
+SUMMARY:🧵 Raksha Bandhan (Rakhi)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-rakshabandhan-2004@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20040830
+DTEND;VALUE=DATE:20040831
+SUMMARY:🧵 Raksha Bandhan (Rakhi)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-rakshabandhan-2005@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20050819
+DTEND;VALUE=DATE:20050820
+SUMMARY:🧵 Raksha Bandhan (Rakhi)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-rakshabandhan-2006@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20060802
+DTEND;VALUE=DATE:20060803
+SUMMARY:🧵 Raksha Bandhan (Rakhi)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-rakshabandhan-2007@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20070828
+DTEND;VALUE=DATE:20070829
+SUMMARY:🧵 Raksha Bandhan (Rakhi)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-rakshabandhan-2008@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20080816
+DTEND;VALUE=DATE:20080817
+SUMMARY:🧵 Raksha Bandhan (Rakhi)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-rakshabandhan-2009@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20090805
+DTEND;VALUE=DATE:20090806
+SUMMARY:🧵 Raksha Bandhan (Rakhi)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-rakshabandhan-2010@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20100824
+DTEND;VALUE=DATE:20100825
+SUMMARY:🧵 Raksha Bandhan (Rakhi)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-rakshabandhan-2011@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20110813
+DTEND;VALUE=DATE:20110814
+SUMMARY:🧵 Raksha Bandhan (Rakhi)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-rakshabandhan-2012@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20120802
+DTEND;VALUE=DATE:20120803
+SUMMARY:🧵 Raksha Bandhan (Rakhi)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-rakshabandhan-2013@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20130821
+DTEND;VALUE=DATE:20130822
+SUMMARY:🧵 Raksha Bandhan (Rakhi)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-rakshabandhan-2014@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20140810
+DTEND;VALUE=DATE:20140811
+SUMMARY:🧵 Raksha Bandhan (Rakhi)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-rakshabandhan-2015@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20150829
+DTEND;VALUE=DATE:20150830
+SUMMARY:🧵 Raksha Bandhan (Rakhi)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-rakshabandhan-2016@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20160818
+DTEND;VALUE=DATE:20160819
+SUMMARY:🧵 Raksha Bandhan (Rakhi)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-rakshabandhan-2017@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20170807
+DTEND;VALUE=DATE:20170808
+SUMMARY:🧵 Raksha Bandhan (Rakhi)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-rakshabandhan-2018@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20180826
+DTEND;VALUE=DATE:20180827
+SUMMARY:🧵 Raksha Bandhan (Rakhi)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-rakshabandhan-2019@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20190815
+DTEND;VALUE=DATE:20190816
+SUMMARY:🧵 Raksha Bandhan (Rakhi)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-rakshabandhan-2020@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20200803
+DTEND;VALUE=DATE:20200804
+SUMMARY:🧵 Raksha Bandhan (Rakhi)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-rakshabandhan-2021@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20210822
+DTEND;VALUE=DATE:20210823
+SUMMARY:🧵 Raksha Bandhan (Rakhi)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-rakshabandhan-2022@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20220811
+DTEND;VALUE=DATE:20220812
+SUMMARY:🧵 Raksha Bandhan (Rakhi)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-rakshabandhan-2023@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20230830
+DTEND;VALUE=DATE:20230831
+SUMMARY:🧵 Raksha Bandhan (Rakhi)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-rakshabandhan-2024@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20240819
+DTEND;VALUE=DATE:20240820
+SUMMARY:🧵 Raksha Bandhan (Rakhi)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-rakshabandhan-2025@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20250809
+DTEND;VALUE=DATE:20250810
+SUMMARY:🧵 Raksha Bandhan (Rakhi)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-rakshabandhan-2026@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20260828
+DTEND;VALUE=DATE:20260829
+SUMMARY:🧵 Raksha Bandhan (Rakhi)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-rakshabandhan-2027@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20270817
+DTEND;VALUE=DATE:20270818
+SUMMARY:🧵 Raksha Bandhan (Rakhi)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-rakshabandhan-2028@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20280805
+DTEND;VALUE=DATE:20280806
+SUMMARY:🧵 Raksha Bandhan (Rakhi)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-rakshabandhan-2029@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20290823
+DTEND;VALUE=DATE:20290824
+SUMMARY:🧵 Raksha Bandhan (Rakhi)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-rakshabandhan-2030@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20300813
+DTEND;VALUE=DATE:20300814
+SUMMARY:🧵 Raksha Bandhan (Rakhi)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-diwali-1997@aditya-ontario-holidays
+DTSTART;VALUE=DATE:19971031
+DTEND;VALUE=DATE:19971101
+SUMMARY:🪔 Diwali
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-chotidiwali-1997@aditya-ontario-holidays
+DTSTART;VALUE=DATE:19971030
+DTEND;VALUE=DATE:19971031
+SUMMARY:🕯️ Choti Diwali
+DESCRIPTION:Computed via standard one-day-before-Diwali pattern (not individually verified for this year)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-bhaidooj-1997@aditya-ontario-holidays
+DTSTART;VALUE=DATE:19971102
+DTEND;VALUE=DATE:19971103
+SUMMARY:🎀 Bhai Dooj
+DESCRIPTION:Computed as Diwali+2 days, consistent with all verified years
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-diwali-1998@aditya-ontario-holidays
+DTSTART;VALUE=DATE:19981020
+DTEND;VALUE=DATE:19981021
+SUMMARY:🪔 Diwali
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-chotidiwali-1998@aditya-ontario-holidays
+DTSTART;VALUE=DATE:19981019
+DTEND;VALUE=DATE:19981020
+SUMMARY:🕯️ Choti Diwali
+DESCRIPTION:Computed via standard one-day-before-Diwali pattern (not individually verified for this year)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-bhaidooj-1998@aditya-ontario-holidays
+DTSTART;VALUE=DATE:19981022
+DTEND;VALUE=DATE:19981023
+SUMMARY:🎀 Bhai Dooj
+DESCRIPTION:Computed as Diwali+2 days, consistent with all verified years
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-diwali-1999@aditya-ontario-holidays
+DTSTART;VALUE=DATE:19991108
+DTEND;VALUE=DATE:19991109
+SUMMARY:🪔 Diwali
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-chotidiwali-1999@aditya-ontario-holidays
+DTSTART;VALUE=DATE:19991107
+DTEND;VALUE=DATE:19991108
+SUMMARY:🕯️ Choti Diwali
+DESCRIPTION:Computed via standard one-day-before-Diwali pattern (not individually verified for this year)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-bhaidooj-1999@aditya-ontario-holidays
+DTSTART;VALUE=DATE:19991110
+DTEND;VALUE=DATE:19991111
+SUMMARY:🎀 Bhai Dooj
+DESCRIPTION:Computed as Diwali+2 days, consistent with all verified years
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-diwali-2000@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20001026
+DTEND;VALUE=DATE:20001027
+SUMMARY:🪔 Diwali
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-chotidiwali-2000@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20001025
+DTEND;VALUE=DATE:20001026
+SUMMARY:🕯️ Choti Diwali
+DESCRIPTION:Computed via standard one-day-before-Diwali pattern (not individually verified for this year)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-bhaidooj-2000@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20001028
+DTEND;VALUE=DATE:20001029
+SUMMARY:🎀 Bhai Dooj
+DESCRIPTION:Computed as Diwali+2 days, consistent with all verified years
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-diwali-2001@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20011114
+DTEND;VALUE=DATE:20011115
+SUMMARY:🪔 Diwali
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-chotidiwali-2001@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20011113
+DTEND;VALUE=DATE:20011114
+SUMMARY:🕯️ Choti Diwali
+DESCRIPTION:Computed via standard one-day-before-Diwali pattern (not individually verified for this year)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-bhaidooj-2001@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20011116
+DTEND;VALUE=DATE:20011117
+SUMMARY:🎀 Bhai Dooj
+DESCRIPTION:Computed as Diwali+2 days, consistent with all verified years
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-diwali-2002@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20021104
+DTEND;VALUE=DATE:20021105
+SUMMARY:🪔 Diwali
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-chotidiwali-2002@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20021103
+DTEND;VALUE=DATE:20021104
+SUMMARY:🕯️ Choti Diwali
+DESCRIPTION:Computed via standard one-day-before-Diwali pattern (not individually verified for this year)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-bhaidooj-2002@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20021106
+DTEND;VALUE=DATE:20021107
+SUMMARY:🎀 Bhai Dooj
+DESCRIPTION:Computed as Diwali+2 days, consistent with all verified years
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-diwali-2003@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20031025
+DTEND;VALUE=DATE:20031026
+SUMMARY:🪔 Diwali
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-chotidiwali-2003@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20031024
+DTEND;VALUE=DATE:20031025
+SUMMARY:🕯️ Choti Diwali
+DESCRIPTION:Computed via standard one-day-before-Diwali pattern (not individually verified for this year)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-bhaidooj-2003@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20031027
+DTEND;VALUE=DATE:20031028
+SUMMARY:🎀 Bhai Dooj
+DESCRIPTION:Computed as Diwali+2 days, consistent with all verified years
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-diwali-2004@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20041112
+DTEND;VALUE=DATE:20041113
+SUMMARY:🪔 Diwali
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-chotidiwali-2004@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20041111
+DTEND;VALUE=DATE:20041112
+SUMMARY:🕯️ Choti Diwali
+DESCRIPTION:Computed via standard one-day-before-Diwali pattern (not individually verified for this year)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-bhaidooj-2004@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20041114
+DTEND;VALUE=DATE:20041115
+SUMMARY:🎀 Bhai Dooj
+DESCRIPTION:Computed as Diwali+2 days, consistent with all verified years
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-diwali-2005@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20051101
+DTEND;VALUE=DATE:20051102
+SUMMARY:🪔 Diwali
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-chotidiwali-2005@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20051031
+DTEND;VALUE=DATE:20051101
+SUMMARY:🕯️ Choti Diwali
+DESCRIPTION:Computed via standard one-day-before-Diwali pattern (not individually verified for this year)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-bhaidooj-2005@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20051103
+DTEND;VALUE=DATE:20051104
+SUMMARY:🎀 Bhai Dooj
+DESCRIPTION:Computed as Diwali+2 days, consistent with all verified years
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-diwali-2006@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20061021
+DTEND;VALUE=DATE:20061022
+SUMMARY:🪔 Diwali
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-chotidiwali-2006@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20061020
+DTEND;VALUE=DATE:20061021
+SUMMARY:🕯️ Choti Diwali
+DESCRIPTION:Computed via standard one-day-before-Diwali pattern (not individually verified for this year)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-bhaidooj-2006@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20061023
+DTEND;VALUE=DATE:20061024
+SUMMARY:🎀 Bhai Dooj
+DESCRIPTION:Computed as Diwali+2 days, consistent with all verified years
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-diwali-2007@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20071109
+DTEND;VALUE=DATE:20071110
+SUMMARY:🪔 Diwali
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-chotidiwali-2007@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20071108
+DTEND;VALUE=DATE:20071109
+SUMMARY:🕯️ Choti Diwali
+DESCRIPTION:Computed via standard one-day-before-Diwali pattern (not individually verified for this year)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-bhaidooj-2007@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20071111
+DTEND;VALUE=DATE:20071112
+SUMMARY:🎀 Bhai Dooj
+DESCRIPTION:Computed as Diwali+2 days, consistent with all verified years
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-diwali-2008@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20081028
+DTEND;VALUE=DATE:20081029
+SUMMARY:🪔 Diwali
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-chotidiwali-2008@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20081027
+DTEND;VALUE=DATE:20081028
+SUMMARY:🕯️ Choti Diwali
+DESCRIPTION:Computed via standard one-day-before-Diwali pattern (not individually verified for this year)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-bhaidooj-2008@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20081030
+DTEND;VALUE=DATE:20081031
+SUMMARY:🎀 Bhai Dooj
+DESCRIPTION:Computed as Diwali+2 days, consistent with all verified years
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-diwali-2009@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20091017
+DTEND;VALUE=DATE:20091018
+SUMMARY:🪔 Diwali
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-chotidiwali-2009@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20091016
+DTEND;VALUE=DATE:20091017
+SUMMARY:🕯️ Choti Diwali
+DESCRIPTION:Computed via standard one-day-before-Diwali pattern (not individually verified for this year)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-bhaidooj-2009@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20091019
+DTEND;VALUE=DATE:20091020
+SUMMARY:🎀 Bhai Dooj
+DESCRIPTION:Computed as Diwali+2 days, consistent with all verified years
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-diwali-2010@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20101105
+DTEND;VALUE=DATE:20101106
+SUMMARY:🪔 Diwali
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-chotidiwali-2010@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20101104
+DTEND;VALUE=DATE:20101105
+SUMMARY:🕯️ Choti Diwali
+DESCRIPTION:Computed via standard one-day-before-Diwali pattern (not individually verified for this year)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-bhaidooj-2010@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20101107
+DTEND;VALUE=DATE:20101108
+SUMMARY:🎀 Bhai Dooj
+DESCRIPTION:Computed as Diwali+2 days, consistent with all verified years
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-diwali-2011@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20111026
+DTEND;VALUE=DATE:20111027
+SUMMARY:🪔 Diwali
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-chotidiwali-2011@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20111025
+DTEND;VALUE=DATE:20111026
+SUMMARY:🕯️ Choti Diwali
+DESCRIPTION:Computed via standard one-day-before-Diwali pattern (not individually verified for this year)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-bhaidooj-2011@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20111028
+DTEND;VALUE=DATE:20111029
+SUMMARY:🎀 Bhai Dooj
+DESCRIPTION:Computed as Diwali+2 days, consistent with all verified years
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-diwali-2012@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20121113
+DTEND;VALUE=DATE:20121114
+SUMMARY:🪔 Diwali
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-chotidiwali-2012@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20121112
+DTEND;VALUE=DATE:20121113
+SUMMARY:🕯️ Choti Diwali
+DESCRIPTION:Computed via standard one-day-before-Diwali pattern (not individually verified for this year)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-bhaidooj-2012@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20121115
+DTEND;VALUE=DATE:20121116
+SUMMARY:🎀 Bhai Dooj
+DESCRIPTION:Computed as Diwali+2 days, consistent with all verified years
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-diwali-2013@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20131103
+DTEND;VALUE=DATE:20131104
+SUMMARY:🪔 Diwali
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-chotidiwali-2013@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20131102
+DTEND;VALUE=DATE:20131103
+SUMMARY:🕯️ Choti Diwali
+DESCRIPTION:Computed via standard one-day-before-Diwali pattern (not individually verified for this year)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-bhaidooj-2013@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20131105
+DTEND;VALUE=DATE:20131106
+SUMMARY:🎀 Bhai Dooj
+DESCRIPTION:Computed as Diwali+2 days, consistent with all verified years
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-diwali-2014@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20141023
+DTEND;VALUE=DATE:20141024
+SUMMARY:🪔 Diwali
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-chotidiwali-2014@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20141022
+DTEND;VALUE=DATE:20141023
+SUMMARY:🕯️ Choti Diwali
+DESCRIPTION:Computed via standard one-day-before-Diwali pattern (not individually verified for this year)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-bhaidooj-2014@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20141025
+DTEND;VALUE=DATE:20141026
+SUMMARY:🎀 Bhai Dooj
+DESCRIPTION:Computed as Diwali+2 days, consistent with all verified years
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-diwali-2015@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20151111
+DTEND;VALUE=DATE:20151112
+SUMMARY:🪔 Diwali
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-chotidiwali-2015@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20151110
+DTEND;VALUE=DATE:20151111
+SUMMARY:🕯️ Choti Diwali
+DESCRIPTION:Computed via standard one-day-before-Diwali pattern (not individually verified for this year)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-bhaidooj-2015@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20151113
+DTEND;VALUE=DATE:20151114
+SUMMARY:🎀 Bhai Dooj
+DESCRIPTION:Computed as Diwali+2 days, consistent with all verified years
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-diwali-2016@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20161030
+DTEND;VALUE=DATE:20161031
+SUMMARY:🪔 Diwali
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-chotidiwali-2016@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20161029
+DTEND;VALUE=DATE:20161030
+SUMMARY:🕯️ Choti Diwali
+DESCRIPTION:Computed via standard one-day-before-Diwali pattern (not individually verified for this year)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-bhaidooj-2016@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20161101
+DTEND;VALUE=DATE:20161102
+SUMMARY:🎀 Bhai Dooj
+DESCRIPTION:Computed as Diwali+2 days, consistent with all verified years
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-diwali-2017@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20171019
+DTEND;VALUE=DATE:20171020
+SUMMARY:🪔 Diwali
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-chotidiwali-2017@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20171018
+DTEND;VALUE=DATE:20171019
+SUMMARY:🕯️ Choti Diwali
+DESCRIPTION:Computed via standard one-day-before-Diwali pattern (not individually verified for this year)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-bhaidooj-2017@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20171021
+DTEND;VALUE=DATE:20171022
+SUMMARY:🎀 Bhai Dooj
+DESCRIPTION:Computed as Diwali+2 days, consistent with all verified years
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-diwali-2018@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20181107
+DTEND;VALUE=DATE:20181108
+SUMMARY:🪔 Diwali
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-chotidiwali-2018@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20181106
+DTEND;VALUE=DATE:20181107
+SUMMARY:🕯️ Choti Diwali
+DESCRIPTION:Computed via standard one-day-before-Diwali pattern (not individually verified for this year)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-bhaidooj-2018@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20181109
+DTEND;VALUE=DATE:20181110
+SUMMARY:🎀 Bhai Dooj
+DESCRIPTION:Computed as Diwali+2 days, consistent with all verified years
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-diwali-2019@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20191027
+DTEND;VALUE=DATE:20191028
+SUMMARY:🪔 Diwali
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-chotidiwali-2019@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20191026
+DTEND;VALUE=DATE:20191027
+SUMMARY:🕯️ Choti Diwali
+DESCRIPTION:Computed via standard one-day-before-Diwali pattern (not individually verified for this year)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-bhaidooj-2019@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20191029
+DTEND;VALUE=DATE:20191030
+SUMMARY:🎀 Bhai Dooj
+DESCRIPTION:Computed as Diwali+2 days, consistent with all verified years
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-diwali-2020@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20201114
+DTEND;VALUE=DATE:20201115
+SUMMARY:🪔 Diwali
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-chotidiwali-2020@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20201113
+DTEND;VALUE=DATE:20201114
+SUMMARY:🕯️ Choti Diwali
+DESCRIPTION:Computed via standard one-day-before-Diwali pattern (not individually verified for this year)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-bhaidooj-2020@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20201116
+DTEND;VALUE=DATE:20201117
+SUMMARY:🎀 Bhai Dooj
+DESCRIPTION:Computed as Diwali+2 days, consistent with all verified years
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-diwali-2021@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20211104
+DTEND;VALUE=DATE:20211105
+SUMMARY:🪔 Diwali
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-chotidiwali-2021@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20211103
+DTEND;VALUE=DATE:20211104
+SUMMARY:🕯️ Choti Diwali
+DESCRIPTION:Computed via standard one-day-before-Diwali pattern (not individually verified for this year)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-bhaidooj-2021@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20211106
+DTEND;VALUE=DATE:20211107
+SUMMARY:🎀 Bhai Dooj
+DESCRIPTION:Computed as Diwali+2 days, consistent with all verified years
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-diwali-2022@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20221024
+DTEND;VALUE=DATE:20221025
+SUMMARY:🪔 Diwali
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-chotidiwali-2022@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20221023
+DTEND;VALUE=DATE:20221024
+SUMMARY:🕯️ Choti Diwali
+DESCRIPTION:Computed via standard one-day-before-Diwali pattern (not individually verified for this year)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-bhaidooj-2022@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20221026
+DTEND;VALUE=DATE:20221027
+SUMMARY:🎀 Bhai Dooj
+DESCRIPTION:Computed as Diwali+2 days, consistent with all verified years
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-diwali-2023@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20231112
+DTEND;VALUE=DATE:20231113
+SUMMARY:🪔 Diwali
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-chotidiwali-2023@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20231111
+DTEND;VALUE=DATE:20231112
+SUMMARY:🕯️ Choti Diwali
+DESCRIPTION:Computed via standard one-day-before-Diwali pattern (not individually verified for this year)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-bhaidooj-2023@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20231114
+DTEND;VALUE=DATE:20231115
+SUMMARY:🎀 Bhai Dooj
+DESCRIPTION:Computed as Diwali+2 days, consistent with all verified years
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-diwali-2024@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20241101
+DTEND;VALUE=DATE:20241102
+SUMMARY:🪔 Diwali
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-chotidiwali-2024@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20241031
+DTEND;VALUE=DATE:20241101
+SUMMARY:🕯️ Choti Diwali
+DESCRIPTION:Computed via standard one-day-before-Diwali pattern (not individually verified for this year)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-bhaidooj-2024@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20241103
+DTEND;VALUE=DATE:20241104
+SUMMARY:🎀 Bhai Dooj
+DESCRIPTION:Computed as Diwali+2 days, consistent with all verified years
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-diwali-2025@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20251021
+DTEND;VALUE=DATE:20251022
+SUMMARY:🪔 Diwali
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-chotidiwali-2025@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20251020
+DTEND;VALUE=DATE:20251021
+SUMMARY:🕯️ Choti Diwali
+DESCRIPTION:Computed via standard one-day-before-Diwali pattern (not individually verified for this year)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-bhaidooj-2025@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20251023
+DTEND;VALUE=DATE:20251024
+SUMMARY:🎀 Bhai Dooj
+DESCRIPTION:Computed as Diwali+2 days, consistent with all verified years
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-diwali-2026@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY:🪔 Diwali
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-chotidiwali-2026@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:🕯️ Choti Diwali
+DESCRIPTION:Computed via standard one-day-before-Diwali pattern (not individually verified for this year)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-bhaidooj-2026@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+SUMMARY:🎀 Bhai Dooj
+DESCRIPTION:Computed as Diwali+2 days, consistent with all verified years
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-diwali-2027@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20271029
+DTEND;VALUE=DATE:20271030
+SUMMARY:🪔 Diwali
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-chotidiwali-2027@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20271028
+DTEND;VALUE=DATE:20271029
+SUMMARY:🕯️ Choti Diwali
+DESCRIPTION:Computed via standard one-day-before-Diwali pattern (not individually verified for this year)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-bhaidooj-2027@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20271031
+DTEND;VALUE=DATE:20271101
+SUMMARY:🎀 Bhai Dooj
+DESCRIPTION:Computed as Diwali+2 days, consistent with all verified years
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-diwali-2028@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20281017
+DTEND;VALUE=DATE:20281018
+SUMMARY:🪔 Diwali
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-chotidiwali-2028@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20281017
+DTEND;VALUE=DATE:20281018
+SUMMARY:🕯️ Choti Diwali
+DESCRIPTION:Verified: falls on the same day as main Diwali this year
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-bhaidooj-2028@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20281019
+DTEND;VALUE=DATE:20281020
+SUMMARY:🎀 Bhai Dooj
+DESCRIPTION:Computed as Diwali+2 days, consistent with all verified years
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-diwali-2029@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20291105
+DTEND;VALUE=DATE:20291106
+SUMMARY:🪔 Diwali
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-chotidiwali-2029@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20291104
+DTEND;VALUE=DATE:20291105
+SUMMARY:🕯️ Choti Diwali
+DESCRIPTION:Computed via standard one-day-before-Diwali pattern (not individually verified for this year)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-bhaidooj-2029@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20291107
+DTEND;VALUE=DATE:20291108
+SUMMARY:🎀 Bhai Dooj
+DESCRIPTION:Computed as Diwali+2 days, consistent with all verified years
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-diwali-2030@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20301026
+DTEND;VALUE=DATE:20301027
+SUMMARY:🪔 Diwali
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-chotidiwali-2030@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20301025
+DTEND;VALUE=DATE:20301026
+SUMMARY:🕯️ Choti Diwali
+DESCRIPTION:Computed via standard one-day-before-Diwali pattern (not individually verified for this year)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-bhaidooj-2030@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20301028
+DTEND;VALUE=DATE:20301029
+SUMMARY:🎀 Bhai Dooj
+DESCRIPTION:Computed as Diwali+2 days, consistent with all verified years
+END:VEVENT
+
+END:VCALENDAR
