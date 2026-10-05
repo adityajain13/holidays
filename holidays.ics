@@ -2960,4 +2960,794 @@ SUMMARY:🎀 Bhai Dooj
 DESCRIPTION:Computed as Diwali+2 days, consistent with all verified years
 END:VEVENT
 
+BEGIN:VEVENT
+UID:on-cincodemayo@aditya-ontario-holidays
+DTSTART;VALUE=DATE:19970505
+DTEND;VALUE=DATE:19970506
+RRULE:FREQ=YEARLY
+SUMMARY:🇲🇽 Cinco de Mayo
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-ugadi-1997@aditya-ontario-holidays
+DTSTART;VALUE=DATE:19970408
+DTEND;VALUE=DATE:19970409
+SUMMARY:🥭 Ugadi
+DESCRIPTION:Telugu/Kannada New Year (Chaitra Shukla Pratipada)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-makarsankranti-1997@aditya-ontario-holidays
+DTSTART;VALUE=DATE:19970114
+DTEND;VALUE=DATE:19970115
+SUMMARY:🪁 Makar Sankranti
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-chinesenewyear-1997@aditya-ontario-holidays
+DTSTART;VALUE=DATE:19970207
+DTEND;VALUE=DATE:19970208
+SUMMARY:🧧 Chinese New Year
+DESCRIPTION:Lunar New Year
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-ugadi-1998@aditya-ontario-holidays
+DTSTART;VALUE=DATE:19980328
+DTEND;VALUE=DATE:19980329
+SUMMARY:🥭 Ugadi
+DESCRIPTION:Telugu/Kannada New Year (Chaitra Shukla Pratipada)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-makarsankranti-1998@aditya-ontario-holidays
+DTSTART;VALUE=DATE:19980114
+DTEND;VALUE=DATE:19980115
+SUMMARY:🪁 Makar Sankranti
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-chinesenewyear-1998@aditya-ontario-holidays
+DTSTART;VALUE=DATE:19980128
+DTEND;VALUE=DATE:19980129
+SUMMARY:🧧 Chinese New Year
+DESCRIPTION:Lunar New Year
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-ugadi-1999@aditya-ontario-holidays
+DTSTART;VALUE=DATE:19990318
+DTEND;VALUE=DATE:19990319
+SUMMARY:🥭 Ugadi
+DESCRIPTION:Telugu/Kannada New Year (Chaitra Shukla Pratipada)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-makarsankranti-1999@aditya-ontario-holidays
+DTSTART;VALUE=DATE:19990114
+DTEND;VALUE=DATE:19990115
+SUMMARY:🪁 Makar Sankranti
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-chinesenewyear-1999@aditya-ontario-holidays
+DTSTART;VALUE=DATE:19990216
+DTEND;VALUE=DATE:19990217
+SUMMARY:🧧 Chinese New Year
+DESCRIPTION:Lunar New Year
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-ugadi-2000@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20000405
+DTEND;VALUE=DATE:20000406
+SUMMARY:🥭 Ugadi
+DESCRIPTION:Telugu/Kannada New Year (Chaitra Shukla Pratipada)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-makarsankranti-2000@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20000115
+DTEND;VALUE=DATE:20000116
+SUMMARY:🪁 Makar Sankranti
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-chinesenewyear-2000@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20000205
+DTEND;VALUE=DATE:20000206
+SUMMARY:🧧 Chinese New Year
+DESCRIPTION:Lunar New Year
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-ugadi-2001@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20010326
+DTEND;VALUE=DATE:20010327
+SUMMARY:🥭 Ugadi
+DESCRIPTION:Telugu/Kannada New Year (Chaitra Shukla Pratipada)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-makarsankranti-2001@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20010114
+DTEND;VALUE=DATE:20010115
+SUMMARY:🪁 Makar Sankranti
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-chinesenewyear-2001@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20010124
+DTEND;VALUE=DATE:20010125
+SUMMARY:🧧 Chinese New Year
+DESCRIPTION:Lunar New Year
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-ugadi-2002@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20020413
+DTEND;VALUE=DATE:20020414
+SUMMARY:🥭 Ugadi
+DESCRIPTION:Telugu/Kannada New Year (Chaitra Shukla Pratipada)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-makarsankranti-2002@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20020114
+DTEND;VALUE=DATE:20020115
+SUMMARY:🪁 Makar Sankranti
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-chinesenewyear-2002@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20020212
+DTEND;VALUE=DATE:20020213
+SUMMARY:🧧 Chinese New Year
+DESCRIPTION:Lunar New Year
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-ugadi-2003@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20030402
+DTEND;VALUE=DATE:20030403
+SUMMARY:🥭 Ugadi
+DESCRIPTION:Telugu/Kannada New Year (Chaitra Shukla Pratipada)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-makarsankranti-2003@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20030114
+DTEND;VALUE=DATE:20030115
+SUMMARY:🪁 Makar Sankranti
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-chinesenewyear-2003@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20030201
+DTEND;VALUE=DATE:20030202
+SUMMARY:🧧 Chinese New Year
+DESCRIPTION:Lunar New Year
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-ugadi-2004@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20040321
+DTEND;VALUE=DATE:20040322
+SUMMARY:🥭 Ugadi
+DESCRIPTION:Telugu/Kannada New Year (Chaitra Shukla Pratipada)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-makarsankranti-2004@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20040115
+DTEND;VALUE=DATE:20040116
+SUMMARY:🪁 Makar Sankranti
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-chinesenewyear-2004@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20040122
+DTEND;VALUE=DATE:20040123
+SUMMARY:🧧 Chinese New Year
+DESCRIPTION:Lunar New Year
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-ugadi-2005@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20050409
+DTEND;VALUE=DATE:20050410
+SUMMARY:🥭 Ugadi
+DESCRIPTION:Telugu/Kannada New Year (Chaitra Shukla Pratipada)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-makarsankranti-2005@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20050114
+DTEND;VALUE=DATE:20050115
+SUMMARY:🪁 Makar Sankranti
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-chinesenewyear-2005@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20050209
+DTEND;VALUE=DATE:20050210
+SUMMARY:🧧 Chinese New Year
+DESCRIPTION:Lunar New Year
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-ugadi-2006@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20060330
+DTEND;VALUE=DATE:20060331
+SUMMARY:🥭 Ugadi
+DESCRIPTION:Telugu/Kannada New Year (Chaitra Shukla Pratipada)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-makarsankranti-2006@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20060114
+DTEND;VALUE=DATE:20060115
+SUMMARY:🪁 Makar Sankranti
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-chinesenewyear-2006@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20060129
+DTEND;VALUE=DATE:20060130
+SUMMARY:🧧 Chinese New Year
+DESCRIPTION:Lunar New Year
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-ugadi-2007@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20070320
+DTEND;VALUE=DATE:20070321
+SUMMARY:🥭 Ugadi
+DESCRIPTION:Telugu/Kannada New Year (Chaitra Shukla Pratipada)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-makarsankranti-2007@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20070114
+DTEND;VALUE=DATE:20070115
+SUMMARY:🪁 Makar Sankranti
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-chinesenewyear-2007@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20070218
+DTEND;VALUE=DATE:20070219
+SUMMARY:🧧 Chinese New Year
+DESCRIPTION:Lunar New Year
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-ugadi-2008@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20080407
+DTEND;VALUE=DATE:20080408
+SUMMARY:🥭 Ugadi
+DESCRIPTION:Telugu/Kannada New Year (Chaitra Shukla Pratipada)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-makarsankranti-2008@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20080115
+DTEND;VALUE=DATE:20080116
+SUMMARY:🪁 Makar Sankranti
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-chinesenewyear-2008@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20080207
+DTEND;VALUE=DATE:20080208
+SUMMARY:🧧 Chinese New Year
+DESCRIPTION:Lunar New Year
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-ugadi-2009@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20090327
+DTEND;VALUE=DATE:20090328
+SUMMARY:🥭 Ugadi
+DESCRIPTION:Telugu/Kannada New Year (Chaitra Shukla Pratipada)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-makarsankranti-2009@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20090114
+DTEND;VALUE=DATE:20090115
+SUMMARY:🪁 Makar Sankranti
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-chinesenewyear-2009@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20090126
+DTEND;VALUE=DATE:20090127
+SUMMARY:🧧 Chinese New Year
+DESCRIPTION:Lunar New Year
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-ugadi-2010@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20100316
+DTEND;VALUE=DATE:20100317
+SUMMARY:🥭 Ugadi
+DESCRIPTION:Telugu/Kannada New Year (Chaitra Shukla Pratipada)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-makarsankranti-2010@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20100114
+DTEND;VALUE=DATE:20100115
+SUMMARY:🪁 Makar Sankranti
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-chinesenewyear-2010@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20100214
+DTEND;VALUE=DATE:20100215
+SUMMARY:🧧 Chinese New Year
+DESCRIPTION:Lunar New Year
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-ugadi-2011@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20110404
+DTEND;VALUE=DATE:20110405
+SUMMARY:🥭 Ugadi
+DESCRIPTION:Telugu/Kannada New Year (Chaitra Shukla Pratipada)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-makarsankranti-2011@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20110115
+DTEND;VALUE=DATE:20110116
+SUMMARY:🪁 Makar Sankranti
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-chinesenewyear-2011@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20110203
+DTEND;VALUE=DATE:20110204
+SUMMARY:🧧 Chinese New Year
+DESCRIPTION:Lunar New Year
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-ugadi-2012@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20120323
+DTEND;VALUE=DATE:20120324
+SUMMARY:🥭 Ugadi
+DESCRIPTION:Telugu/Kannada New Year (Chaitra Shukla Pratipada)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-makarsankranti-2012@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20120115
+DTEND;VALUE=DATE:20120116
+SUMMARY:🪁 Makar Sankranti
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-chinesenewyear-2012@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20120123
+DTEND;VALUE=DATE:20120124
+SUMMARY:🧧 Chinese New Year
+DESCRIPTION:Lunar New Year
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-ugadi-2013@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20130411
+DTEND;VALUE=DATE:20130412
+SUMMARY:🥭 Ugadi
+DESCRIPTION:Telugu/Kannada New Year (Chaitra Shukla Pratipada)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-makarsankranti-2013@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20130114
+DTEND;VALUE=DATE:20130115
+SUMMARY:🪁 Makar Sankranti
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-chinesenewyear-2013@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20130210
+DTEND;VALUE=DATE:20130211
+SUMMARY:🧧 Chinese New Year
+DESCRIPTION:Lunar New Year
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-ugadi-2014@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20140331
+DTEND;VALUE=DATE:20140401
+SUMMARY:🥭 Ugadi
+DESCRIPTION:Telugu/Kannada New Year (Chaitra Shukla Pratipada)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-makarsankranti-2014@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20140114
+DTEND;VALUE=DATE:20140115
+SUMMARY:🪁 Makar Sankranti
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-chinesenewyear-2014@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20140131
+DTEND;VALUE=DATE:20140201
+SUMMARY:🧧 Chinese New Year
+DESCRIPTION:Lunar New Year
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-ugadi-2015@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20150321
+DTEND;VALUE=DATE:20150322
+SUMMARY:🥭 Ugadi
+DESCRIPTION:Telugu/Kannada New Year (Chaitra Shukla Pratipada)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-makarsankranti-2015@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20150115
+DTEND;VALUE=DATE:20150116
+SUMMARY:🪁 Makar Sankranti
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-chinesenewyear-2015@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20150219
+DTEND;VALUE=DATE:20150220
+SUMMARY:🧧 Chinese New Year
+DESCRIPTION:Lunar New Year
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-ugadi-2016@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20160408
+DTEND;VALUE=DATE:20160409
+SUMMARY:🥭 Ugadi
+DESCRIPTION:Telugu/Kannada New Year (Chaitra Shukla Pratipada)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-makarsankranti-2016@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20160115
+DTEND;VALUE=DATE:20160116
+SUMMARY:🪁 Makar Sankranti
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-chinesenewyear-2016@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20160208
+DTEND;VALUE=DATE:20160209
+SUMMARY:🧧 Chinese New Year
+DESCRIPTION:Lunar New Year
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-ugadi-2017@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20170328
+DTEND;VALUE=DATE:20170329
+SUMMARY:🥭 Ugadi
+DESCRIPTION:Telugu/Kannada New Year (Chaitra Shukla Pratipada)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-makarsankranti-2017@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20170114
+DTEND;VALUE=DATE:20170115
+SUMMARY:🪁 Makar Sankranti
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-chinesenewyear-2017@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20170128
+DTEND;VALUE=DATE:20170129
+SUMMARY:🧧 Chinese New Year
+DESCRIPTION:Lunar New Year
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-ugadi-2018@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20180318
+DTEND;VALUE=DATE:20180319
+SUMMARY:🥭 Ugadi
+DESCRIPTION:Telugu/Kannada New Year (Chaitra Shukla Pratipada)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-makarsankranti-2018@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20180114
+DTEND;VALUE=DATE:20180115
+SUMMARY:🪁 Makar Sankranti
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-chinesenewyear-2018@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20180216
+DTEND;VALUE=DATE:20180217
+SUMMARY:🧧 Chinese New Year
+DESCRIPTION:Lunar New Year
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-ugadi-2019@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20190406
+DTEND;VALUE=DATE:20190407
+SUMMARY:🥭 Ugadi
+DESCRIPTION:Telugu/Kannada New Year (Chaitra Shukla Pratipada)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-makarsankranti-2019@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20190115
+DTEND;VALUE=DATE:20190116
+SUMMARY:🪁 Makar Sankranti
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-chinesenewyear-2019@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20190205
+DTEND;VALUE=DATE:20190206
+SUMMARY:🧧 Chinese New Year
+DESCRIPTION:Lunar New Year
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-ugadi-2020@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20200325
+DTEND;VALUE=DATE:20200326
+SUMMARY:🥭 Ugadi
+DESCRIPTION:Telugu/Kannada New Year (Chaitra Shukla Pratipada)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-makarsankranti-2020@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20200115
+DTEND;VALUE=DATE:20200116
+SUMMARY:🪁 Makar Sankranti
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-chinesenewyear-2020@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20200125
+DTEND;VALUE=DATE:20200126
+SUMMARY:🧧 Chinese New Year
+DESCRIPTION:Lunar New Year
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-ugadi-2021@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20210413
+DTEND;VALUE=DATE:20210414
+SUMMARY:🥭 Ugadi
+DESCRIPTION:Telugu/Kannada New Year (Chaitra Shukla Pratipada)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-makarsankranti-2021@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20210114
+DTEND;VALUE=DATE:20210115
+SUMMARY:🪁 Makar Sankranti
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-chinesenewyear-2021@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20210212
+DTEND;VALUE=DATE:20210213
+SUMMARY:🧧 Chinese New Year
+DESCRIPTION:Lunar New Year
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-ugadi-2022@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20220402
+DTEND;VALUE=DATE:20220403
+SUMMARY:🥭 Ugadi
+DESCRIPTION:Telugu/Kannada New Year (Chaitra Shukla Pratipada)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-makarsankranti-2022@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20220114
+DTEND;VALUE=DATE:20220115
+SUMMARY:🪁 Makar Sankranti
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-chinesenewyear-2022@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20220201
+DTEND;VALUE=DATE:20220202
+SUMMARY:🧧 Chinese New Year
+DESCRIPTION:Lunar New Year
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-ugadi-2023@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20230322
+DTEND;VALUE=DATE:20230323
+SUMMARY:🥭 Ugadi
+DESCRIPTION:Telugu/Kannada New Year (Chaitra Shukla Pratipada)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-makarsankranti-2023@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20230115
+DTEND;VALUE=DATE:20230116
+SUMMARY:🪁 Makar Sankranti
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-chinesenewyear-2023@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20230122
+DTEND;VALUE=DATE:20230123
+SUMMARY:🧧 Chinese New Year
+DESCRIPTION:Lunar New Year
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-ugadi-2024@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20240409
+DTEND;VALUE=DATE:20240410
+SUMMARY:🥭 Ugadi
+DESCRIPTION:Telugu/Kannada New Year (Chaitra Shukla Pratipada)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-makarsankranti-2024@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20240115
+DTEND;VALUE=DATE:20240116
+SUMMARY:🪁 Makar Sankranti
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-chinesenewyear-2024@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20240210
+DTEND;VALUE=DATE:20240211
+SUMMARY:🧧 Chinese New Year
+DESCRIPTION:Lunar New Year
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-ugadi-2025@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20250330
+DTEND;VALUE=DATE:20250331
+SUMMARY:🥭 Ugadi
+DESCRIPTION:Telugu/Kannada New Year (Chaitra Shukla Pratipada)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-makarsankranti-2025@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20250114
+DTEND;VALUE=DATE:20250115
+SUMMARY:🪁 Makar Sankranti
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-chinesenewyear-2025@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20250129
+DTEND;VALUE=DATE:20250130
+SUMMARY:🧧 Chinese New Year
+DESCRIPTION:Lunar New Year
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-ugadi-2026@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20260319
+DTEND;VALUE=DATE:20260320
+SUMMARY:🥭 Ugadi
+DESCRIPTION:Telugu/Kannada New Year (Chaitra Shukla Pratipada)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-makarsankranti-2026@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20260114
+DTEND;VALUE=DATE:20260115
+SUMMARY:🪁 Makar Sankranti
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-chinesenewyear-2026@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20260217
+DTEND;VALUE=DATE:20260218
+SUMMARY:🧧 Chinese New Year
+DESCRIPTION:Lunar New Year
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-ugadi-2027@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20270407
+DTEND;VALUE=DATE:20270408
+SUMMARY:🥭 Ugadi
+DESCRIPTION:Telugu/Kannada New Year (Chaitra Shukla Pratipada)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-makarsankranti-2027@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20270115
+DTEND;VALUE=DATE:20270116
+SUMMARY:🪁 Makar Sankranti
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-chinesenewyear-2027@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+SUMMARY:🧧 Chinese New Year
+DESCRIPTION:Lunar New Year
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-ugadi-2028@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20280327
+DTEND;VALUE=DATE:20280328
+SUMMARY:🥭 Ugadi
+DESCRIPTION:Telugu/Kannada New Year (Chaitra Shukla Pratipada)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-makarsankranti-2028@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20280115
+DTEND;VALUE=DATE:20280116
+SUMMARY:🪁 Makar Sankranti
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-chinesenewyear-2028@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20280126
+DTEND;VALUE=DATE:20280127
+SUMMARY:🧧 Chinese New Year
+DESCRIPTION:Lunar New Year
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-ugadi-2029@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20290414
+DTEND;VALUE=DATE:20290415
+SUMMARY:🥭 Ugadi
+DESCRIPTION:Telugu/Kannada New Year (Chaitra Shukla Pratipada)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-makarsankranti-2029@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20290114
+DTEND;VALUE=DATE:20290115
+SUMMARY:🪁 Makar Sankranti
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-chinesenewyear-2029@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20290213
+DTEND;VALUE=DATE:20290214
+SUMMARY:🧧 Chinese New Year
+DESCRIPTION:Lunar New Year
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-ugadi-2030@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20300403
+DTEND;VALUE=DATE:20300404
+SUMMARY:🥭 Ugadi
+DESCRIPTION:Telugu/Kannada New Year (Chaitra Shukla Pratipada)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-makarsankranti-2030@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20300114
+DTEND;VALUE=DATE:20300115
+SUMMARY:🪁 Makar Sankranti
+END:VEVENT
+
+BEGIN:VEVENT
+UID:on-chinesenewyear-2030@aditya-ontario-holidays
+DTSTART;VALUE=DATE:20300203
+DTEND;VALUE=DATE:20300204
+SUMMARY:🧧 Chinese New Year
+DESCRIPTION:Lunar New Year
+END:VEVENT
+
 END:VCALENDAR
